@@ -11,7 +11,7 @@
 [![Plataforma](https://img.shields.io/badge/plataforma-Windows%20%7C%20Linux%20%7C%20macOS-555?style=flat-square)](#)
 [![Licença](https://img.shields.io/badge/licença-Educacional-2a9d8f?style=flat-square)](#-aviso-legal)
 
-`@kalyel473` · [github.com/kalyel473](https://github.com/kalyel473) · [discord.gg/kbMyJPbF](https://discord.gg/kbMyJPbF)
+`@kalyel473` · [github.com/kalyel473](https://github.com/kalyel473) 
 
 </div>
 
