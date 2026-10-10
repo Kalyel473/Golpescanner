@@ -1,25 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-╔══════════════════════════════════════════════════════════════════════════╗
-║                  GolpeScanner BR  v1.0.0                                ║
-║          Detector de Golpes Digitais Brasileiros                         ║
-║                                                                          ║
-║  Módulos:                                                                ║
-║   1. Analisador de Mensagens    — phishing, engenharia social            ║
-║   2. Verificador de Chave Pix   — padrões, CNPJ/CPF, evidentências      ║
-║   3. Scanner de Links/URLs      — phishing, typosquatting, redirect      ║
-║   4. Validador de Boleto        — linha digitável, CNPJ cedente          ║
-║   5. Detector WhatsApp Clonado  — sinais de conta comprometida           ║
-║   6. Classificador de Phishing  — ML leve baseado em heurísticas         ║
-║   7. Base de Golpes Conhecidos  — 35+ padrões mapeados                   ║
-║   8. Relatório + Plano de Ação  — MED Bacen, B.O., provedores            ║
-║   9. Histórico de Análises      — log local em JSON                      ║
-║  10. Modo Batch                 — analisa múltiplos alvos de arquivo      ║
-║                                                                          ║
-║  100% Python puro · Sem API key · Fins educacionais                      ║          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-"""
 
 # ── stdlib ────────────────────────────────────────────────────────────────
 import sys, os, re, json, math, time, datetime, hashlib, argparse, getpass
